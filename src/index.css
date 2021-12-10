@@ -1,4 +1,7 @@
-body, html, #root, div {
+body,
+html,
+#root,
+div {
   position: absolute;
   margin: 0;
   padding: 0;
@@ -16,5 +19,5 @@ div {
 
 canvas {
   border: 1px solid grey;
-  cursor: none; 
+  cursor: none;
 }
